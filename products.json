@@ -1,0 +1,151 @@
+{
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "fields":{
+                "title":"grown",
+                "price":18.11,
+                "category":"Female-wears",
+                "image":{"fields":{"files":{
+                "url":"/image/product-1.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"2"},
+            "fields":{
+                "title":"Top",
+                "price":17.14,
+                "category":"Female-wears",
+                "image":{"fields":{"files":{
+                "url":"/image/product-2.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "fields":{
+                "title":"cream top",
+                "price":13.55,
+                "category":"Female-wears",
+                "image":{"fields":{"files":{
+                "url":"/image/product-3.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "fields":{
+                "title":"Black top",
+                "price":10.34,
+                "category":"Men-wears",
+                "image":{"fields":{"files":{
+                "url":"/image/product-4.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"5"},
+            "fields":{
+                "title":"Shoe 1",
+                "price":18.76,
+                "category":"Foot-wears",
+                "image":{"fields":{"files":{
+                "url":"/image/product-5.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"6"},
+            "fields":{
+                "title":"Black shoe",
+                "category":"Foot-wears",
+                "price":21.88,
+                "image":{"fields":{"files":{
+                "url":"/image/product-6.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"7"},
+            "fields":{
+                "title":"Nike shoe",
+                "category":"Foot-wears",
+                "price":23.94,
+                "image":{"fields":{"files":{
+                "url":"/image/product-7.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"8"},
+            "fields":{
+                "title":" Puma Shoe",
+                "category":"Foot-wears",
+                "price":23.44,
+                "image":{"fields":{"files":{
+                "url":"/image/product-8.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"9"},
+            "fields":{
+                "title":"Red-shoe",
+                "price":22.34,
+                "category":"Foot-wears",
+                "image":{"fields":{"files":{
+                "url":"/image/product-9.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"10"},
+            "fields":{
+                "title":"Sport shoe",
+                "price":20.75,
+                "category":"Foot-wears",
+                "image":{"fields":{"files":{
+                "url":"/image/product-10.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"11"},
+            "fields":{
+                "title":"Shoe 7",
+                "price":20.34,
+                "category":"Foot-wears",
+                "image":{"fields":{"files":{
+                "url":"/image/product-11.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"12"},
+            "fields":{
+                "title":"Men jean",
+                "price":13.34,
+                "category":"Men-wears",
+                "image":{"fields":{"files":{
+                "url":"/image/product-12.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"13"},
+            "fields":{
+                "title":"Blue Jean",
+                "price":12.65,
+                "category":"Trousers",
+                "image":{"fields":{"files":{
+                "url":"/image/product-13.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"14"},
+            "fields":{
+                "title":"Distressed jean",
+                "price":15.99,
+                "category":"Trousers",
+                "image":{"fields":{"files":{
+                "url":"/image/product-14.jpg"}}}
+            }
+        }
+
+
+
+
+
+
+
+    ]
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width,initia-scale=1.0"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="/style/style.css">
+    <title>YourOnline-wardrobe</title>
+    
+
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-c">
+    
+            <span class="nav-icon">
+                <i class="bi bi-list"></i>
+            </span>
+            <h1 class="store-name">YourOnline wardrobe</h1>
+            <div class="cart-btn">
+                <span class="nav-icon">
+                    <i class="bi bi-cart3"></i>
+                </span>
+                <div class="cart-item">0</div>
+            </div>
+            
+        
+        </div>
+    </nav>
+    <header class="header">
+        
+        <div class="banner">
+            <h2 class="ban-title"> CLOTHES COLLECTION</h2>
+            <button class="btn">shop now</button>
+        </div>
+    </header>
+    <section class="products">
+        <div class="section-title h3">
+            <h3  id="product-section">Our products</h3>
+        </div>
+        <div class="categories">
+            <button class="btn-value" onclick="filterprod('All-products')">
+                All-products
+            </button>
+            <button class="btn-value" onclick="filterprod('Female-wears')">Female-wears</button>
+            <button class="btn-value" onclick="filterprod('Men-wears')">Men-wears</button>
+            <button class="btn-value" onclick="filterprod('Trousers')">Trousers</button>
+            <button class="btn-value" onclick="filterprod('Foot-wears')">Foot-wears</button>
+        </div>
+        <div class="product-display">
+            
+        </div>
+        
+    </section>
+
+    <div class="cart-window">
+        <div class="cart-view">
+            <span class="close">
+                <i class="bi bi-x-square-fill"></i>
+            </span>
+            <h2>Your cart</h2>
+            <div class="cart-content">
+                
+                
+            </div>
+            <div class="cart-footer">
+                <h3>your total : $ <span class="cart-total">0</span></h3>
+                <button class="clear-cart">clear cart</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/contentful@latest/dist/contentful.browser.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
